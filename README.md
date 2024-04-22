@@ -1,9 +1,8 @@
 ## React Native Native Components Showcase
 
 Welcome to our React Native Native Components Showcase! This application serves as a comprehensive demonstration of all the native components provided by React Native. Additionally, it showcases the implementation of a context provider for switching between light and dark themes, as well as advanced features such as infinite scroll, sliders, custom modals, and a feature to detect theme changes in the phone's operating system while the application is in the background.
-[componentes app.webm](https://github.com/kevinShogun/07-componentsApp/assets/54457637/28100dca-0333-484a-b1d3-17a4ccbe2004)
 
-
+https://github.com/kevinShogun/07-componentsApp/assets/54457637/8a61a789-7fb0-4709-b9e9-1a3eb61b971e
 
 ### Key Features
 
