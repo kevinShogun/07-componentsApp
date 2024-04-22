@@ -1,6 +1,9 @@
 ## React Native Native Components Showcase
 
 Welcome to our React Native Native Components Showcase! This application serves as a comprehensive demonstration of all the native components provided by React Native. Additionally, it showcases the implementation of a context provider for switching between light and dark themes, as well as advanced features such as infinite scroll, sliders, custom modals, and a feature to detect theme changes in the phone's operating system while the application is in the background.
+[componentes app.webm](https://github.com/kevinShogun/07-componentsApp/assets/54457637/28100dca-0333-484a-b1d3-17a4ccbe2004)
+
+
 
 ### Key Features
 
@@ -18,13 +21,13 @@ To set up and run the application:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kevinShogun/componentsApp.git
+   git clone https://github.com/kevinShogun/07-componentsApp.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd componentsApp
+   cd 07-componentsApp
    ```
 
 3. Install dependencies:
@@ -47,7 +50,7 @@ To set up and run the application:
 
 ### Note
 
-Make sure to replace `kevinShogun/componentsApp` with the actual URL of your repository.
+Make sure to replace `kevinShogun/07-componentsApp` with the actual URL of your repository.
 
 ### Usage
 
